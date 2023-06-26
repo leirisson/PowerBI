@@ -1,7 +1,7 @@
 #table(
     type table[
         Data = date,
-        Despeza = text,
+        Despeza = text, 
         valor = number
     ],
     {
