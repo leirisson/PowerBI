@@ -1,0 +1,31 @@
+# 'dataset' tem os dados de entrada para este script
+libary("string")
+pattern <-"^(?:(?#DDD)\(?([9][0-8])\)?)(?:(?#Telefone)(((?:9)(8|9)[0-9]{3})|(3)[0-9]{3})(\d{4}))$"
+cleanRegEx <- str_extract(dataset$ZipCode, pattern)
+outputRegEx <- (dataset, {RegEx= celular cliente})
+
+
+
+
+Sub Validação_CElular()
+Dim ws As Worksheet
+    Dim lastRow As Long
+    Dim regex As Object
+    Dim cell As Range
+    
+    Set ws = ThisWorkbook.Sheets("Cliente_Dados")
+    lastRow = ws.Cells(ws.Rows.Count, 6).End(xlUp).Row ' A coluna 6 contém os números de celular
+    
+    Set regex = CreateObject("VBScript.RegExp")
+    regex.Pattern = "^(?:(?#DDD)\(?([9][0-8])\)?)(?:(?#Telefone)(((?:9)(8|9)[0-9]{3})|(3)[0-9]{3})(\d{4}))$" ' Padrão regex para números de celular de 10 dígitos
+    
+    For Each cell In ws.Range("F2:F" & lastRow) ' Coluna 6 é a coluna F
+        If Not regex.Test(cell.Value) Then ' Testar se o valor da célula não corresponde ao padrão regex
+            cell.Offset(0, 1).Value = "Inválido" ' Coluna 7 é a coluna G
+            cell.Offset(0, 1).Interior.Color = RGB(255, 0, 0) ' Preencher a célula com a cor vermelha para indicar que é inválido
+        Else
+            cell.Offset(0, 1).Value = "Válido"
+            cell.Offset(0, 1).Interior.Color = RGB(0, 255, 0) ' Preencher a célula com a cor verde para indicar que é válido
+        End If
+    Next cell
+End Sub
