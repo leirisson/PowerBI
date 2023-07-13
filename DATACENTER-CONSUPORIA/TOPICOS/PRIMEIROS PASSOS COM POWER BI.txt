@@ -1,0 +1,21 @@
+Aqui estão alguns tópicos para iniciantes de Power BI:
+
+Introdução ao Power BI:
+
+O que é o Power BI e como ele funciona [1].
+Diferença entre o Power BI Desktop e o Power BI Service [1][2].
+Conceitos básicos do Power BI:
+
+Visualizações: tipos de gráficos e como interagir com eles [1].
+Dashboards: criação de painéis com visualizações interativas e informações-chave [1].
+Relatórios: criação de páginas com visualizações, textos e gráficos para análise de dados [1].
+Conjuntos de dados: containers de dados utilizados para análise e criação de relatórios [1].
+Primeiros passos com o Power BI Desktop:
+
+Instalação e execução do Power BI Desktop [2].
+Conexão a fontes de dados para importação de informações [2].
+Uso do Power BI Service:
+
+Exploração do Power BI Service para revisar e interagir com conteúdos compartilhados [3].
+Trabalho com painéis, relatórios e conjuntos de dados no Power BI Service [1][3].
+Esses tópicos fornecem uma base sólida para iniciantes no Power BI, permitindo que eles compreendam os conceitos essenciais e comecem a explorar as funcionalidades básicas da ferramenta. É recomendado que os usuários completem cursos ou tutoriais mais abrangentes para aprofundar seus conhecimentos e aproveitar todo o potencial do Power BI.
