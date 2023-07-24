@@ -1,0 +1,11 @@
+Tabela Calendario = ADDCOLUMNS(
+			CALENDARAUTO(), 
+			"Dia num", DAY([Date]), 
+			"Dia nome",FORMAT([Date],"dddd"),
+ 			"Dia SEmana", WEEKDAY([Date]), 
+			"Semana Num",WEEKNUM([Date]), 
+			"Mês Num", MONTH([Date]),
+			"Mês Nome",Format([Date], "mmm"),
+			"Trimestre",Quarter([Date]),
+			"Ano", Year([Date])
+)

@@ -1,3 +1,0 @@
- http://localhost:8080/medicos?page=1
-
-  java -jar api.jar
