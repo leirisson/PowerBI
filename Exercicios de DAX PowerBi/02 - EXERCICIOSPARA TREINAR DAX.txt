@@ -1,0 +1,35 @@
+Claro, aqui estão 10 problemas para treinares a linguagem DAX no Power BI:
+
+**Problema 1: Soma Total de Vendas**
+Calcula a soma total das vendas na tua tabela de vendas.
+
+**Problema 2: Média de Lucro por Produto**
+Calcula a média de lucro por produto na tua tabela de produtos.
+
+**Problema 3: Total de Clientes Ativos**
+Determina o total de clientes ativos na tua tabela de clientes com base num campo de estado de ativação.
+
+**Problema 4: Taxa de Conversão de Vendas**
+Calcula a taxa de conversão de vendas, ou seja, a percentagem de leads convertidos em vendas.
+
+**Problema 5: Valor Máximo por Categoria**
+Encontra o valor máximo de vendas por categoria na tua tabela de produtos.
+
+**Problema 6: Diferença de Vendas Mensais**
+Calcula a diferença de vendas entre o mês atual e o mês anterior.
+
+**Problema 7: Análise de Retenção de Clientes**
+Cria uma medida que calcule a taxa de retenção de clientes ao longo do tempo.
+
+**Problema 8: Ranking de Vendas por Região**
+Cria um ranking de vendas por região, ordenado do maior para o menor valor.
+
+**Problema 9: Média Móvel de Vendas**
+Calcula a média móvel de vendas para um período específico, como os últimos 3 meses.
+
+**Problema 10: Segmentação de Clientes**
+Cria uma medida que segmente os clientes com base no seu histórico de compras, como clientes regulares e ocasionais.
+
+Estes problemas abordam diversas áreas de cálculos e análises usando a linguagem DAX no Power BI. Ao resolvê-los, 
+vais ganhar familiaridade com funções DAX e práticas de modelagem de dados para criares relatórios e análises mais avançados. 
+Lembra-te de que a prática constante é essencial para desenvolveres as tuas habilidades em DAX e Power BI. Boa sorte!

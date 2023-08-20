@@ -1,0 +1,63 @@
+Certamente, aqui estão 20 problemas para treinar DAX e funções de agregação, bem como as condições IF, SWITCH, IFERROR e variáveis no Power BI:
+
+**Problema 1: Soma das Vendas Totais**
+Calcula a soma das vendas totais na tua tabela de vendas.
+
+**Problema 2: Média de Lucro por Produto**
+Calcula a média de lucro por produto na tua tabela de produtos.
+
+**Problema 3: Total de Clientes Ativos**
+Determina o total de clientes ativos na tua tabela de clientes com base num campo de estado de ativação.
+
+**Problema 4: Contagem de Produtos Vendidos**
+Conta quantos produtos diferentes foram vendidos na tua tabela de vendas.
+
+**Problema 5: Valor Máximo de Vendas por Cliente**
+Encontra o valor máximo de vendas por cliente na tua tabela de vendas.
+
+**Problema 6: Valor Mínimo de Lucro por Categoria**
+Encontra o valor mínimo de lucro por categoria na tua tabela de produtos.
+
+**Problema 7: Média de Vendas por Ano**
+Calcula a média de vendas por ano na tua tabela de vendas.
+
+**Problema 8: Soma das Vendas por Região**
+Calcula a soma das vendas por região na tua tabela de vendas.
+
+**Problema 9: Total de Vendas por Mês**
+Calcula o total de vendas por mês na tua tabela de vendas.
+
+**Problema 10: Média de Preço de Venda por Produto**
+Calcula a média do preço de venda por produto na tua tabela de produtos.
+
+**Problema 11: Receita Média por Cliente**
+Calcula a receita média por cliente na tua tabela de clientes.
+
+**Problema 12: Contagem de Vendas Bem-Sucedidas**
+Conta quantas vendas foram bem-sucedidas na tua tabela de vendas com base num campo de status.
+
+**Problema 13: Média Ponderada de Avaliações**
+Calcula a média ponderada das avaliações de produtos na tua tabela de produtos.
+
+**Problema 14: Valor Máximo de Vendas Mensais**
+Encontra o valor máximo de vendas num mês específico na tua tabela de vendas.
+
+**Problema 15: Vendas Anuais com Condição IF**
+Calcula as vendas anuais, atribuindo 0 a vendas negativas usando a função IF.
+
+**Problema 16: Total de Vendas com Condição SWITCH**
+Calcula o total de vendas com diferentes cálculos de acordo com a região usando a função SWITCH.
+
+**Problema 17: Média de Vendas com Variáveis**
+Calcula a média de vendas usando variáveis para armazenar valores intermediários.
+
+**Problema 18: Receita Média Mensal por Cliente**
+Calcula a receita média mensal por cliente considerando um período de tempo.
+
+**Problema 19: Soma das Vendas com Tratamento de Erro IFERROR**
+Calcula a soma das vendas, tratando erros com a função IFERROR.
+
+**Problema 20: Total de Vendas com Múltiplas Condições**
+Calcula o total de vendas aplicando múltiplas condições usando a função IF e SWITCH.
+
+Estes problemas abordam várias áreas de cálculos e análises usando DAX no Power BI, incluindo funções de agregação e manipulação de dados condicionais. Ao resolvê-los, irás desenvolver competências avançadas no Power BI e na linguagem DAX. Lembra-te de que a prática constante é essencial para aprimorar as tuas habilidades. Boa sorte!
