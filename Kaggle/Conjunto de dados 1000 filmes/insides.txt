@@ -1,0 +1,30 @@
+Com base nas colunas da tabela dos 1000 melhores filmes, você pode extrair várias informações valiosas:
+
+Colocação: 
+Você pode identificar a posição de cada filme na lista, permitindo que você saiba quais são os filmes mais bem classificados.
+
+Nome do Filme: 
+Isso permite que você conheça os títulos dos filmes, o que é essencial para identificação e referência.
+
+Ano de Lançamento: 
+A informação sobre o ano de lançamento ajuda a entender a distribuição temporal dos filmes na lista e pode ser usada para análises históricas.
+
+Tempo de Duração: 
+Essa coluna fornece informações sobre a duração de cada filme, o que pode ser útil para decidir quanto tempo você precisa para assisti-los.
+
+Classificação do Filme: 
+A classificação do filme pode ser usada para categorizar os filmes em gêneros ou temas específicos, como ação, drama, comédia, etc.
+
+Pontuação por Filme: 
+Essa coluna indica a pontuação atribuída a cada filme, o que pode ser uma medida da qualidade percebida pelos espectadores.
+
+Pontuação Bruta: 
+A pontuação bruta pode fornecer insights sobre o desempenho financeiro dos filmes, ajudando a identificar filmes de sucesso de bilheteria.
+
+Votos: 
+O número de votos pode ser usado como uma medida de popularidade, indicando quais filmes atraíram mais atenção do público.
+
+Descrição: 
+A descrição pode conter informações adicionais sobre o enredo, elenco, diretor e outros detalhes relevantes sobre cada filme.
+
+Com esses dados, você pode realizar análises, como identificar tendências ao longo do tempo, avaliar a popularidade de diferentes gêneros ou diretores, e até mesmo criar recomendações personalizadas com base nas preferências dos espectadores.

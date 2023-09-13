@@ -1,0 +1,43 @@
+A análise exploratória de dados (EDA, na sigla em inglês) é um processo fundamental para compreender os dados e extrair insights valiosos a partir deles. No seu caso, você deseja realizar uma análise exploratória em duas tabelas diferentes. Vou dividir o processo em várias etapas:
+
+**1. Entendimento dos Dados:**
+   - Comece examinando as duas tabelas separadamente para entender suas estruturas, nomes de colunas e tipos de dados.
+
+**2. Verificação de Dados Ausentes:**
+   - Identifique se há valores ausentes em ambas as tabelas e decida como lidar com eles (preenchendo, excluindo, etc.).
+
+**3. Estatísticas Descritivas:**
+   - Calcule estatísticas descritivas para as colunas numéricas, como preço unitário, preço promocional e quantidade na 
+     primeira tabela. Isso inclui média, mediana, desvio padrão, mínimo, máximo, etc.
+
+**4. Análise de Categorias:**
+   - Na primeira tabela, analise a distribuição das categorias de livros e calcule a quantidade de livros em cada categoria.
+
+**5. Análise Temporal:**
+   - Na segunda tabela, explore a evolução das compras ao longo do tempo. Calcule métricas como vendas mensais, sazonalidade, etc.
+
+**6. Formas de Pagamento:**
+   - Analise as formas de pagamento mais comuns na segunda tabela e sua distribuição.
+
+**7. Análise Geográfica:**
+   - Na segunda tabela, explore a distribuição das entregas por cidade e código postal. Calcule métricas como as cidades com mais entregas, etc.
+
+**8. Relações entre Tabelas:**
+   - Se houver uma relação entre as tabelas (por exemplo, o ID do produto na segunda tabela corresponde ao ID do livro na primeira tabela), você pode unir as tabelas para obter informações mais detalhadas sobre as compras de livros.
+
+**9. Análise de Preços:**
+   - Compare o preço unitário com o preço promocional na primeira tabela para entender a magnitude das promoções.
+
+**10. Visualização de Dados:**
+   - Crie gráficos e visualizações relevantes, como gráficos de barras, histogramas, séries temporais, etc., para facilitar a compreensão dos dados.
+
+**11. Identificação de Padrões e Tendências:**
+   - Procure padrões, tendências, outliers e anomalias nos dados que possam fornecer insights úteis.
+
+**12. Perguntas e Hipóteses:**
+   - Com base em suas análises, formule perguntas e hipóteses que possam orientar análises mais aprofundadas.
+
+**13. Comunicação de Resultados:**
+   - Documente e apresente os insights e descobertas de forma clara e concisa, usando gráficos e relatórios.
+
+Lembre-se de que a análise exploratória é um processo iterativo. À medida que você obtém insights, novas perguntas podem surgir, levando a análises adicionais. O objetivo final é entender completamente seus dados e usar essas informações para tomar decisões informadas.
